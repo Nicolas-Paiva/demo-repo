@@ -1,3 +1,3 @@
 # Hello GitHub!
 
-I am gonna become a Software Developer
+I am gonna become a good Software Developer!
